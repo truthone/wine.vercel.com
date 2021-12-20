@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 
-const WinePage: NextPage = () => {
+const Wines: NextPage = () => {
     return(
         <div>
             <h1>Wine</h1>
@@ -8,5 +8,5 @@ const WinePage: NextPage = () => {
     )
 }
 
-export default WinePage;
+export default Wines;
 //Typescript를 쓰는 가장 기본적인 템플릿.
